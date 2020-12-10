@@ -1,6 +1,4 @@
 The Effect of Co-adaptive Learning & Feedback in Interactive Machine Learning
 May 2019
 Conference: ACM CHI: Human-Centered Machine Learning Perspectives WorkshopAt: Glasgow, United Kingdom
-Michael Zbyszyński
-Balandino Di Donato
-Atau Tanaka
+Michael Zbyszyński, Balandino Di Donato, Atau Tanaka

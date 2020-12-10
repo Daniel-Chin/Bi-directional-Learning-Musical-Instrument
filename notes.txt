@@ -1,0 +1,17 @@
+to learn {
+    https://web.eecs.umich.edu/~wlasecki/index.html
+    Daniele:
+        https://cims.nyu.edu/gcl/daniele.html
+        Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove
+        Deformation Capture via Soft and Stretchable Sensor Arrays
+    A Framework for Automatically Generating Interactive Instructional Scaffolding 
+        http://www.cs.cornell.edu/~eland/papers/chi2015_tutorials.pdf
+}
+2020 Nov 28 {
+    Instead of learning to use a keyboard, kids will learn to control brainwave
+}
+12/10 {
+    domain danger:
+        1) training time domian highly variable
+        2) listen-to-music training is a diff domain; imagine-familiar-music is a diff domain from improvise-novel-music. 
+}

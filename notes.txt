@@ -15,3 +15,11 @@ to learn {
         1) training time domian highly variable
         2) listen-to-music training is a diff domain; imagine-familiar-music is a diff domain from improvise-novel-music. 
 }
+12/29 {
+    Just read Fiebrink's papers and their refs. IML mainly refers to uni-directional learning with human in the loop. My idea is bi-directional with haptic guidance, and that is the main novelty. 
+}
+12/30 {
+    Playalong co-adaptation
+        Ref: Co-adaptive calibration to improve BCI efficiency. Vidaurre. 
+        Sight-play a score. You hear what the instrument generates. Don't stop on mistake. This way, both learns. Afterwards, mark your own mistakes. 
+}

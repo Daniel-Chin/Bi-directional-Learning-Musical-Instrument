@@ -1,0 +1,9 @@
+Even though a trained model might not perform as imagined, it is possible that the imperfections suggest another way to interact with a problem space
+T. Kulesza, S. Amershi, R. Caruana, D.yel Fisher, and D. Charles. 2014. Structured labeling for facilitating concept evolution in machine learning. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. 3075–3084
+
+In particular, one
+participant had no peak of the sensory motor idle rhythm in
+the beginning of the experiment, but could develop such peak
+during the course of the session 
+Towards a Cure for BCI Illiteracy
+Carmen Vidaurre • Benjamin Blankertz

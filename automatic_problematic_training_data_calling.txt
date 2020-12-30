@@ -1,0 +1,11 @@
+R = regularization term in loss funciton
+
+Two indicators:
+    argmax(x = training datapoint, loss(x))
+    argmax(x = training datapoint, R(model(trained without x)))
+
+Show the user a pair of contradictory datapoints
+
+Decision tree:
+    A node of contradiction. 
+    Represent the two subnodes with generated summary, if they are not leaves. 

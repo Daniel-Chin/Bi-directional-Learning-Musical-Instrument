@@ -1,0 +1,31 @@
+in case this folder is lost, to recover gitignore'd papers, this file stores bib info for all papers. 
+
+Towards adaptive classification for BCI*
+BodyCompass: Monitoring Sleep Posture with Wireless Signals
+CueFlik: Interactive Concept Learning in Image Search 
+CueTIP: A Mixed-Initiative Interface for Correcting Handwriting Errors
+Towards a Dimension Space for Musical Devices
+Playing Pinball with non-invasive BCI
+Toward Unsupervised Adaptation of LDA for Brain–Computer Interfaces
+THE WEKINATOR: A SYSTEM FOR REAL-TIME, INTERACTIVE MACHINE LEARNING IN MUSIC
+Towards a Cure for BCI Illiteracy
+A Generalizable Brain-Computer Interface (BCI) Using Machine Learning for Feature Discovery
+The Effect of Co-adaptive Learning & Feedback in Interactive Machine Learning
+Co-adaptive calibration to improve BCI efficiency
+Human Model Evaluation in Interactive Supervised Learning
+A Meta-Instrument for Interactive, On-the-fly Machine Learning
+The Moving Target in Creative Interactive Machine Learning
+Progressive Co-adaptation in Human-Machine Interaction
+a textbook on variational inference
+EEG-Based Brain-Controlled Mobile Robots: A Survey
+Speech Synthesis from ECoG using Densely Connected 3D Convolutional Neural Networks
+Real-time Human Interaction with Supervised Learning Algorithms for Music Composition and Performance
+Active Learning of Intuitive Control Knobs for Synthesizers Using Gaussian Processes
+Real-time Neural Network Processing of Gestural and Acoustic Signals
+Neural networks for simultaneous classification and parameter estimation in musical instrument control
+EnsembleMatrix: Interactive Visualization to Support Machine Learning with Multiple Classifiers
+Interactive Machine Learning 
+Glove-TalkII: An Adaptive Gesture-to-Formant Interface
+The Importance of Parameter Mapping in Electronic Instrument Design
+Mapping performer parameters to synthesis engines
+The Metasurface – Applying Natural Neighbour Interpolation to Two-to-Many Mapping

@@ -22,4 +22,18 @@ to learn {
     Playalong co-adaptation
         Ref: Co-adaptive calibration to improve BCI efficiency. Vidaurre. 
         Sight-play a score. You hear what the instrument generates. Don't stop on mistake. This way, both learns. Afterwards, mark your own mistakes. 
+        Eye tracking! (controls score progression)
+    Domain danger
+        see 12/10 notes
+        "Users exhibit a different mental state during offline calibration and online feedback"
+            viewed as a problem by them. biLearn: that's the entire point! 
+    12/29 notes extension:
+        level 1: IML    (Fails and Olsen)
+             provide more effective training data
+        level 2: co-adapt   (The Effect of Co-adaptive Learning & Feedback in Interactive Machine Learning)
+            moving target. 
+                (this can bring soul to the machine)
+            Learning. 
+                " Adaptation was evident because the accuracy of models as calculated through cross-validation against recorded examples is lower than the average accuracy measured during new performances with the models"
+        level 3: haptic guidance
 }

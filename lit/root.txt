@@ -1,0 +1,2 @@
+nick_name. author. title. 
+BCI_calibration_vs_feedback. Pradeep Shenoy. Towards adaptive classification for BCI. 

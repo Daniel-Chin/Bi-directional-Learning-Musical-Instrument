@@ -1,18 +1,9 @@
-to learn {
-    https://web.eecs.umich.edu/~wlasecki/index.html
-    Daniele:
-        https://cims.nyu.edu/gcl/daniele.html
-        Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove
-        Deformation Capture via Soft and Stretchable Sensor Arrays
-    A Framework for Automatically Generating Interactive Instructional Scaffolding 
-        http://www.cs.cornell.edu/~eland/papers/chi2015_tutorials.pdf
-}
 2020 Nov 28 {
     Instead of learning to use a keyboard, kids will learn to control brainwave
 }
 12/10 {
     domain danger:
-        1) training time domian highly variable
+        1) training time domain highly variable
         2) listen-to-music training is a diff domain; imagine-familiar-music is a diff domain from improvise-novel-music. 
 }
 12/29 {
@@ -36,6 +27,8 @@ to learn {
             Learning. 
                 " Adaptation was evident because the accuracy of models as calculated through cross-validation against recorded examples is lower than the average accuracy measured during new performances with the models"
         level 3: haptic guidance
+    automatic_problematic_training_data_calling
+        see automatic_problematic_training_data_calling.txt
 }
 1/5 {
     Cuetip:

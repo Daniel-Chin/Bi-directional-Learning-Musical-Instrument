@@ -17,6 +17,7 @@
     Domain danger
         see 12/10 notes
         "Users exhibit a different mental state during offline calibration and online feedback"
+        Vidaurre, Carmen, et al. "Co-adaptive calibration to improve BCI efficiency." Journal of neural engineering 8.2 (2011): 025009.
             viewed as a problem by them. biLearn: that's the entire point! 
     12/29 notes extension:
         level 1: IML    (Fails and Olsen)
@@ -25,7 +26,7 @@
             moving target. 
                 (this can bring soul to the machine)
             Learning. 
-                " Adaptation was evident because the accuracy of models as calculated through cross-validation against recorded examples is lower than the average accuracy measured during new performances with the models"
+                "Adaptation was evident because the accuracy of models as calculated through cross-validation against recorded examples is lower than the average accuracy measured during new performances with the models"
         level 3: haptic guidance
     automatic_problematic_training_data_calling
         see automatic_problematic_training_data_calling.txt

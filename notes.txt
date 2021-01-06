@@ -37,3 +37,14 @@ to learn {
                 " Adaptation was evident because the accuracy of models as calculated through cross-validation against recorded examples is lower than the average accuracy measured during new performances with the models"
         level 3: haptic guidance
 }
+1/5 {
+    Cuetip:
+        Correct machine mistake (provide groundtruth) at low cost with machine's help.
+        in "CueTIP: A Mixed-Initiative Interface for Correcting Handwriting Errors". 
+}
+1/6 {
+    Domain danger: 
+        "non-stationarities". 
+        "Towards adaptive classification for BCI". Pradeep Shenoy.
+        We may face the same problem, but not so much, since human will feel feedback and know where to go. Music production is also accurate, so on-line unsupervised adaption to input data domain may not be fast enough. 
+}
